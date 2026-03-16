@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-[Download my full CV as a PDF here](https://SantiagoMorandi.github.io/files/CV_Santiago_Morandi_March_2026.pdf){: .btn .btn--info}
+<a href="https://SantiagoMorandi.github.io/files/Morandi_CV.pdf" class="btn btn--info">Download my full CV as a PDF here</a>
