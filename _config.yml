@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "santiago_morandi_profile.jpeg"
   name             : "Santiago"
   pronouns         : "he/him"  
   bio              : "Chemical engineer and postdoctoral researcher, dealing with heterogeneous catalysis, material discovery and ML"
   location         : "Tarragona (Spain)"
-  employer         : "Institute of Chemical Research of Catalonia (ICIQ)"
+  employer         : "ICIQ"
   uri              : # URL
   email            : "smorandi@iciq.es" 
 
